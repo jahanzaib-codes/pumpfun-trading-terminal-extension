@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Pump.fun & DexScreener Pro Trading Terminal",
+  "version": "1.0.0",
+  "description": "High-speed Chrome Extension injecting fast 1-click buy/sell buttons, live bonding curve tracking, and dev sell alerts on Pump.fun and DexScreener.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://pump.fun/*",
+    "https://dexscreener.com/*",
+    "https://api.mainnet-beta.solana.com/*"
+  ],
+  "background": {
+    "service_worker": "scripts/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://pump.fun/*",
+        "https://dexscreener.com/*"
+      ],
+      "js": ["scripts/content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "Pump.fun Trading Terminal Settings"
+  }
+}
