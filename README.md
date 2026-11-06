@@ -11,10 +11,9 @@
 
 ### 💼 Need Custom Trading Extensions, UI Overlays, or Web3 Tooling?
 I build high-frequency browser extensions, DEX trading terminals, and custom bot wrappers for retail traders, funds, and token launch communities.
-* 💬 **Telegram:** [@jahanzaib_codes](https://t.me/jahanzaib_codes)
-* 💼 **Upwork Profile:** [Upwork Verified Algorithmic Specialist](https://www.upwork.com)
-* 📧 **Email:** `jahanzaib.remotehub@gmail.com`
-* ⚡ **Discord:** `jahanzaib_codes`
+* 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
+* 💼 **Upwork Profile:** [Upwork Verified Algorithmic Specialist](https://www.upwork.com/freelancers/~JanzebBlockdev)
+* 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
 
@@ -106,3 +105,4 @@ manifest-v3, trading-terminal, crypto-trading, web3-extension, solana-bot
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
