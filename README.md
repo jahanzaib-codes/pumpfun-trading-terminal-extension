@@ -89,16 +89,6 @@ Click the extension icon in your Chrome toolbar to open the dark-mode configurat
 
 ---
 
-## 🏷️ GitHub Repository SEO & Discovery Topics
-
-To ensure maximum ranking on GitHub and Google Search, configure your repository's **About -> Topics** with:
-```text
-pumpfun, dexscreener, chrome-extension, solana-trading, sniper-bot, 
-manifest-v3, trading-terminal, crypto-trading, web3-extension, solana-bot
-```
-
----
-
 ## ⚠️ Disclaimer
 
 *This extension is an open-source research and productivity tool. Always ensure your private keys and RPC endpoints are handled securely. The developers assume no liability for trading outcomes.*
