@@ -12,7 +12,7 @@
 ### 💼 Need Custom Trading Extensions, UI Overlays, or Web3 Tooling?
 I build high-frequency browser extensions, DEX trading terminals, and custom bot wrappers for retail traders, funds, and token launch communities.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Upwork Profile:** [Upwork Verified Algorithmic Specialist](https://www.upwork.com/freelancers/~JanzebBlockdev)
+* 💼 **Fiverr Profile:** [jahanzaib313110 (Fiverr Specialist)](https://www.fiverr.com/jahanzaib313110)
 * 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
