@@ -36,3 +36,4 @@ async function handleFastBuy(request) {
     txSignature: `sim_tx_${Date.now()}_ext`
   };
 }
+
