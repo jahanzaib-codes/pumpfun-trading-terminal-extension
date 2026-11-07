@@ -22,8 +22,7 @@ I build high-frequency browser extensions, DEX trading terminals, and custom bot
 2. [UI Architecture & Data Flow](#-ui-architecture--data-flow)
 3. [Installation (Load Unpacked)](#-installation-load-unpacked)
 4. [Customization & Presets](#-customization--presets)
-5. [GitHub Repository SEO & Discovery Topics](#-github-repository-seo--discovery-topics)
-6. [Disclaimer](#-disclaimer)
+5. [Disclaimer](#-disclaimer)
 
 ---
 
