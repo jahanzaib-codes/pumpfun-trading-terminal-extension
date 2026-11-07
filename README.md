@@ -1,4 +1,4 @@
-# ⚡ Pump.fun & DexScreener Pro Trading Terminal (Chrome Extension)
+﻿# ⚡ Pump.fun & DexScreener Pro Trading Terminal (Chrome Extension)
 
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/mv3/intro/)
 [![Solana](https://img.shields.io/badge/Solana-Web3-9945FF?style=flat-square&logo=solana&logoColor=white)](https://solana.com)
@@ -12,7 +12,7 @@
 ### 💼 Need Custom Trading Extensions, UI Overlays, or Web3 Tooling?
 I build high-frequency browser extensions, DEX trading terminals, and custom bot wrappers for retail traders, funds, and token launch communities.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Fiverr Profile:** [jahanzaib313110 (Fiverr Specialist)](https://www.fiverr.com/jahanzaib313110)
+* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://tinyurl.com/2wruxnsx)
 * 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
@@ -94,4 +94,5 @@ Click the extension icon in your Chrome toolbar to open the dark-mode configurat
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
 
